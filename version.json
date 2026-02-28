@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/korsarzPL/KidGuard/main/KidGuard.zip",
-  "hard_reset": false
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/korsarzPL/KidGuard/main/KidGuard.zip",
+    "hard_reset": false
 }
